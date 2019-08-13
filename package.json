@@ -1,0 +1,17 @@
+{
+  "name": "koa-rest-api",
+  "version": "1.0.0",
+  "description": "Just playing around with Koa",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "bluebird": "^3.5.0",
+    "jsonwebtoken": "^7.4.1",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.0",
+    "koa-static": "^3.0.0",
+    "mongoose": "^4.10.6"
+  }
+}
