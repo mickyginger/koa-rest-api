@@ -5,7 +5,7 @@
   "main": "server.js",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.0",
     "jsonwebtoken": "^7.4.1",
     "koa": "^2.2.0",
